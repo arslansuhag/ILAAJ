@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "521369575411",
+    "project_id": "illaj-8ad1b",
+    "storage_bucket": "illaj-8ad1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521369575411:android:154b4994bb4597c1dcfc86",
+        "android_client_info": {
+          "package_name": "com.example.illaj_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp0Phmk1e8rDHpA-bx1jcLaTO2sZmoEts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
