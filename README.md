@@ -1,5 +1,9 @@
 # ILAAJ
 ILAAJ FYP by Arslan Ali and Naveen Kingrani.
+
+# Apk Link
+https://drive.google.com/file/d/1Ij6_K46uwGsIrCYXzSSrPJ0woejT2bDR/view?usp=drive_web
+
 # Some Key tips on how to use this App.
 1: To Sign in to Admin Panel you have to enter following credentials on login page:
   email: admin@gmail.com
